@@ -18,7 +18,7 @@
   "homepage": "http://code.google.com/p/google-diff-match-patch/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/shimondoodkin/googlediff.git"
+    "url": "git://github.com/beegit/googlediff.git"
   },
   "scripts": {
     "test": "node test.js"
